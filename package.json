@@ -1,5 +1,5 @@
 {
-  "name": "data-encryption",
+  "name": "data-decr-encr",
   "version": "1.0.0",
   "description": "This package provides functions for encrypting and decrypting data using the AES encryption algorithm.",
   "main": "./src/index.js",
