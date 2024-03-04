@@ -7,13 +7,13 @@ This package provides functions for encrypting and decrypting data using the AES
 You can install this package via npm:
 
 ```bash
-npm install data-encryption
+npm install data-decr-encr
 ```
 
 ## Usage
 
 ```javascript
-const { encryptData, decryptData } = require('data-encryption');
+const { encryptData, decryptData } = require('data-decr-encr');
 
 // Encrypt data
 const encrypted = encryptData('Hello, World!');
