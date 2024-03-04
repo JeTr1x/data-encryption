@@ -1,0 +1,20 @@
+{
+  "name": "data-encryption",
+  "version": "1.0.0",
+  "description": "This package provides functions for encrypting and decrypting data using the AES encryption algorithm.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeTr1x/data-encryption.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT"
+}
